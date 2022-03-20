@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-[![website](https://cdn.cdnlogo.com/logos/l/74/linkedin.svg)](https://linkedin.com/in/sujit-kumar-yadav-673a9586/)
+[<img alt="HTML5" width="100px" src="https://cdn.cdnlogo.com/logos/l/74/linkedin.svg"/>](https://linkedin.com/in/sujit-kumar-yadav-673a9586/)
 
 ### Languages and Tools:
 
