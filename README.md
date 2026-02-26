@@ -193,6 +193,9 @@ English (Professional) • Nepali (Native) • Hindi (Working) • Tamil (Elemen
 > *"A valuable addition to any frontend team. Always up to date with the newest technologies, shows initiative, and has great ideas for code refactoring. Works well both in a team and independently."*  
 > — **Johannes Bauer**, Colleague at SoftwareQ
 
+> *"Sujit is a very talented developer and its been a pleasure having him on the team. We hope the opportunity comes that we can work together again in the future."*  
+> — **Dave Newman**, CEO at PlanCare 
+
 ---
 
 ## 🏅 Awards & Honors
@@ -216,7 +219,7 @@ English (Professional) • Nepali (Native) • Hindi (Working) • Tamil (Elemen
 
 - 🎨 I love to draw
 - 🏏 I enjoy playing cricket
-- 🌍 I've worked with teams in Nepal, India, and Malaysia
+- 🌍 I've worked with teams in Australia, Nepal, India, Bangladesh, UK, Austria and Malaysia
 - 📚 B.E. in Computer Science from Anna University, Chennai
 - 🤝 Active Rotaract member during college (2011–2014)
 
